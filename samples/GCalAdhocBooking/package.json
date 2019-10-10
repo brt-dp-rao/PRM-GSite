@@ -1,0 +1,15 @@
+{
+  "name": "gcaladhocbooking",
+  "version": "1.0.0",
+  "description": "Testing Calendar Booking for Adhoc method",
+  "main": "adhocbooking.js",
+  "dependencies": {
+    "googleapis": "^39.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Srinivasan Ramachandran",
+  "license": "ISC"
+}
